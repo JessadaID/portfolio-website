@@ -11,4 +11,4 @@ Demo : [Demo](https://jessadaid.github.io/portfolio-website/)
 Google Doc : [เอกสาร](https://docs.google.com/document/d/1KU5EOzBs4mhbGdfrfggtdMAOvCpQbeYYdSfqkv3_JPA/edit?tab=t.0)
 
 ## Preview
-![Preview img](portfolio.png)
+![Preview img](./images/portfolio.png)
